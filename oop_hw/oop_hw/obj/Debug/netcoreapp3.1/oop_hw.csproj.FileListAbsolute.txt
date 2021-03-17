@@ -1,0 +1,13 @@
+D:\3\trpz\oop_hw\oop_hw\bin\Debug\netcoreapp3.1\oop_hw.exe
+D:\3\trpz\oop_hw\oop_hw\bin\Debug\netcoreapp3.1\oop_hw.deps.json
+D:\3\trpz\oop_hw\oop_hw\bin\Debug\netcoreapp3.1\oop_hw.runtimeconfig.json
+D:\3\trpz\oop_hw\oop_hw\bin\Debug\netcoreapp3.1\oop_hw.runtimeconfig.dev.json
+D:\3\trpz\oop_hw\oop_hw\bin\Debug\netcoreapp3.1\oop_hw.dll
+D:\3\trpz\oop_hw\oop_hw\bin\Debug\netcoreapp3.1\oop_hw.pdb
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.csprojAssemblyReference.cache
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.AssemblyInfoInputs.cache
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.AssemblyInfo.cs
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.csproj.CoreCompileInputs.cache
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.dll
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.pdb
+D:\3\trpz\oop_hw\oop_hw\obj\Debug\netcoreapp3.1\oop_hw.genruntimeconfig.cache
